@@ -101,27 +101,6 @@ class BinarySearchTree:
                 self._delete(min_node.value, parent, current.right)
             return current
 
-        '''
-        else:
-            if root.left is not None and root.right is not None:
-                print("左右子树均不为空")
-                min_node = self._find_min(root.right)
-                root.data = min_node.value
-
-                root.right = self._delete(min_node.value, root.right)
-            else:
-                if root.left is not None:
-                    temp = root.right
-                    print(f"左子树不为空,temp={temp}")
-                elif root.right is not None:
-                    temp = root.left
-                    print(f"右子树不为空,temp={temp}")
-                else:
-                    temp = None
-                    print(f"左右子树均为空,temp={temp}")
-                root = temp
-            return root
-        '''
 
     def _find_min(self, root):
         while root.left is not None:
