@@ -19,8 +19,7 @@ URL化。编写一种方法，将字符串中的空格全部替换为%20。假�
 
 class Solution:
     def replaceSpaces(self, s: str, length: int) -> str:
-        s_cut = s[0:length]
-        s_url = s_cut.replace(" ", "%20")
+        s_url = s[0:length].replace(" ", "%20")
         return s_url
 
 
