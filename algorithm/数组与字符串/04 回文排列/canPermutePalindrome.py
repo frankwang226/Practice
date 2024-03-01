@@ -16,12 +16,27 @@ from collections import defaultdict
 
 class Solution:
     def canPermutePalindrome(self, s: str) -> bool:
+        '''
         dic = defaultdict(int)
         for char in s:
             dic[char] += 1
         odd_count = 0
         for value in dic.values():
             if value % 2 == 1:
+                odd_count += 1
+            if odd_count > 1:
+                return False
+        return True
+        '''
+        dic = dict()
+        for char in s:
+            if char in dic.keys():
+                dic[char] += 1
+            else:
+                dic[char] = 1
+        odd_count = 0
+        for i in dic:
+            if dic[i] % 2 !=0:
                 odd_count += 1
             if odd_count > 1:
                 return False
