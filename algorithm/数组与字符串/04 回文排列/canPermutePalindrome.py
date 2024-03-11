@@ -36,7 +36,7 @@ class Solution:
                 dic[char] = 1
         odd_count = 0
         for i in dic:
-            if dic[i] % 2 !=0:
+            if dic[i] % 2 != 0:
                 odd_count += 1
             if odd_count > 1:
                 return False
@@ -47,6 +47,7 @@ class Solution:
         assert True == result.canPermutePalindrome("tactcoa")
         assert True == result.canPermutePalindrome("abab")
         assert False == result.canPermutePalindrome("abc")
+
 
 if __name__ == '__main__':
     test = Solution()
