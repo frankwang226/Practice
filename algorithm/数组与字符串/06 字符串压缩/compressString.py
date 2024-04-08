@@ -61,3 +61,4 @@ if __name__ == '__main__':
     assert "bb" == re.compressString("bb")
 
     assert "abc" == re.com("abc")
+ 
