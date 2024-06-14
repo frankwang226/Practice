@@ -1,0 +1,23 @@
+tag: c20501
+env:
+    default: q1
+    baseurl:
+        q1: https://crm-q1.ezrpro.com/api/
+        tp: https://crm-tp.ezrpro.com/api/
+    cookies:
+        q1:
+            brandId: 739
+            userMobile: 13524204498
+            password: qwer1234
+            userId: 21000098
+            ssoId: 220467
+            accountUrl: https://account-demo.ezrpro.com
+            crmHost: https://crm-q1.ezrpro.com
+        tp:
+            brandId: 186
+            userMobile: 13524204498
+            password: qwer1234
+            userId: 12175923
+            ssoId: 220467
+            accountUrl: https://account.ezrpro.com
+            crmHost: https://crm-tp.ezrpro.com

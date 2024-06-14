@@ -1,0 +1,184 @@
+q1:
+  payload:
+    {
+      "Id": 0,
+      "actBeginEndTimeDate": [ "2024-06-11 18:24:21", "2026-01-01 18:24:21" ],
+      "ActBeginDate": "2024-06-11 18:24:21",
+      "ActEndDate": "2026-01-01 18:24:21",
+      "ShopType": "SH",
+      "ShopIds": "21172697",
+      "selectInfo": {
+        "type": "SH",
+        "list": [ 21172697 ]
+      },
+      "ProItemName": "运动鞋服",
+      "ProItemId": 2830906,
+      "ProdItemNo": "tttop0527super012",
+      "SalePrice": 0.01,
+      "ProdPictureThumb": "",
+      "LimitNum": 0,
+      "ActDtls": [ {
+        "Id": 0,
+        "BonusActId": 0,
+        "BarId": 12102595,
+        "SkuAttrValsEx": "蓝色,XL",
+        "SalePrice": 0.01,
+        "TotalCount": 10
+      } ],
+      "ExpressFeeIsBonus": true,
+      "ExpressFeeIsTemplate": false,
+      "ExpressFeeBonusNum": 0,
+      "IsRefund": 1,
+      "ActType": "GD",
+      "ExRate": 0.001,
+      "ExRuleType": 0,
+      "ProBonusActDtls": [ {
+        "GradeId": -1,
+        "GradeName": "统一兑换规则",
+        "ActDtls": [ {
+          "Id": 0,
+          "BonusActId": 0,
+          "BarId": 12102595,
+          "SkuAttrValsEx": "蓝色,XL",
+          "SalePrice": 0.01,
+          "NeedBonusNum": 1,
+          "NeedPayAmount": 0.01,
+          "MinNeedBonusNum": "",
+          "MinNeedPayAmount": "",
+          "MaxNeedBonusNum": "",
+          "MaxNeedPayAmount": "",
+          "TotalCount": 10
+        } ]
+      } ],
+      "IsJustBonusEx": true,
+      "ExRuleRemark": "",
+      "NotShowCountDown": false,
+      "AutoReleaseActPro": false,
+      "StockType": 0,
+      "NotEnableJoinCart": false,
+      "ExRuleTypeNew": "ALL",
+      "ParticipantsShow": "",
+      "ThresholdDataJson": "{\"intendedForList\":[\"TJ\",\"BQ\",\"FZ\"],\"intendedFor\":\"TJ\",\"requirements\":[{\"type\":\"VDJ\",\"isSelected\":true}],\"isSelected\":false}"
+    }
+tp:
+  payload:
+    {
+      "Id": 0,
+      "actBeginEndTimeDate": [ "2024-06-11 18:21:35", "2025-03-01 00:00:00" ],
+      "ActBeginDate": "2024-06-11 18:21:35",
+      "ActEndDate": "2025-03-01 00:00:00",
+      "ShopType": "SH",
+      "ShopIds": "10000048",
+      "selectInfo": {
+        "type": "SH",
+        "list": [ 10000048 ]
+      },
+      "ProItemName": "校服短裤小学生",
+      "ProItemId": 12976800,
+      "ProdItemNo": "202505223",
+      "SalePrice": 99,
+      "ProdPictureThumb": "https://imgc1-tp.ezrpro.com/img/186/2405222fc1b2e39b806300010bd914.png",
+      "LimitNum": 0,
+      "ActDtls": [ {
+        "Id": 0,
+        "BonusActId": 0,
+        "BarId": 19696437,
+        "SkuAttrValsEx": "绿色,165",
+        "SalePrice": 99,
+        "TotalCount": 10
+      }, {
+        "Id": 0,
+        "BonusActId": 0,
+        "BarId": 19696438,
+        "SkuAttrValsEx": "红色,165",
+        "SalePrice": 99,
+        "TotalCount": 10
+      }, {
+        "Id": 0,
+        "BonusActId": 0,
+        "BarId": 19696439,
+        "SkuAttrValsEx": "绿色,170",
+        "SalePrice": 99,
+        "TotalCount": 10
+      }, {
+        "Id": 0,
+        "BonusActId": 0,
+        "BarId": 19696440,
+        "SkuAttrValsEx": "红色,170",
+        "SalePrice": 99,
+        "TotalCount": 10
+      } ],
+      "ExpressFeeIsBonus": true,
+      "ExpressFeeIsTemplate": false,
+      "ExpressFeeBonusNum": 0,
+      "IsRefund": 1,
+      "ActType": "GD",
+      "ExRate": 0.001,
+      "ExRuleType": 0,
+      "ProBonusActDtls": [ {
+        "GradeId": -1,
+        "GradeName": "统一兑换规则",
+        "ActDtls": [ {
+          "Id": 0,
+          "BonusActId": 0,
+          "BarId": 19696437,
+          "SkuAttrValsEx": "绿色,165",
+          "SalePrice": 99,
+          "NeedBonusNum": 1,
+          "NeedPayAmount": 0.01,
+          "MinNeedBonusNum": "",
+          "MinNeedPayAmount": "",
+          "MaxNeedBonusNum": "",
+          "MaxNeedPayAmount": "",
+          "TotalCount": 10
+        }, {
+          "Id": 0,
+          "BonusActId": 0,
+          "BarId": 19696438,
+          "SkuAttrValsEx": "红色,165",
+          "SalePrice": 99,
+          "NeedBonusNum": 1,
+          "NeedPayAmount": 0.01,
+          "MinNeedBonusNum": "",
+          "MinNeedPayAmount": "",
+          "MaxNeedBonusNum": "",
+          "MaxNeedPayAmount": "",
+          "TotalCount": 10
+        }, {
+          "Id": 0,
+          "BonusActId": 0,
+          "BarId": 19696439,
+          "SkuAttrValsEx": "绿色,170",
+          "SalePrice": 99,
+          "NeedBonusNum": 1,
+          "NeedPayAmount": 0.01,
+          "MinNeedBonusNum": "",
+          "MinNeedPayAmount": "",
+          "MaxNeedBonusNum": "",
+          "MaxNeedPayAmount": "",
+          "TotalCount": 10
+        }, {
+          "Id": 0,
+          "BonusActId": 0,
+          "BarId": 19696440,
+          "SkuAttrValsEx": "红色,170",
+          "SalePrice": 99,
+          "NeedBonusNum": 1,
+          "NeedPayAmount": 0.01,
+          "MinNeedBonusNum": "",
+          "MinNeedPayAmount": "",
+          "MaxNeedBonusNum": "",
+          "MaxNeedPayAmount": "",
+          "TotalCount": 10
+        } ]
+      } ],
+      "IsJustBonusEx": true,
+      "ExRuleRemark": "",
+      "NotShowCountDown": false,
+      "AutoReleaseActPro": false,
+      "StockType": 0,
+      "NotEnableJoinCart": false,
+      "ExRuleTypeNew": "ALL",
+      "ParticipantsShow": "",
+      "ThresholdDataJson": "{\"intendedForList\":[\"TJ\",\"BQ\",\"FZ\"],\"intendedFor\":\"TJ\",\"requirements\":[{\"type\":\"VDJ\",\"isSelected\":true}],\"isSelected\":false}"
+    }
